@@ -10,7 +10,6 @@ class Solution {
 
             if(temp.equals(goal)) return true;
         }
-
         return false;
 
 
